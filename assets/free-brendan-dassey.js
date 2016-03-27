@@ -9,7 +9,7 @@ window.onload = () => {
   p.style.lineHeight = baseLineHeight;
 
   const fsMod = .04;
-  const lhMod = .004;
+  const lhMod = .0025
 
   // Maaking a fist stops any gestures so you can ‘lock-in a setting’
   let isPinching = false;
