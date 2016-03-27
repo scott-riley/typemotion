@@ -11,7 +11,7 @@ window.onload = () => {
   const fsMod = .04;
   const lhMod = .0025
 
-  // Maaking a fist stops any gestures so you can ‘lock-in a setting’
+  // Making a fist modifies style control
   let isPinching = false;
 
   // Track some motion yo
